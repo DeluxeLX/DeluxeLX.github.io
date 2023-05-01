@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #90b2cb 0%, #8eb0cb 100%);
+    background-image: linear-gradient(to right, #cb9bbc 0%, #c3bedd 50%, #8eb0cb 100%);
 }
 
 .text-color {
@@ -1792,7 +1792,7 @@ thead {
 }
 
 .other-skills .sub-title {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
 }
 
 .other-skills .tag-chips {
